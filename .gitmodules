@@ -1,0 +1,3 @@
+[submodule "pow2trab"]
+	path = pow2trab
+	url = https://github.com/tognivini/pow2trab.git
